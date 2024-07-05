@@ -1,1 +1,1 @@
-# udemy_study_numpy
+[Udemy] 원활한 데이터분석을 위한 Numpy(넘파이), Pandas(판다스) 라이브러리 사용법
